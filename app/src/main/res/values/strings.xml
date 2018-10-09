@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Android Behavior</string>
+    <string name="tittle_behavior">com.avater.myapplication.TittleBehavior</string>
 </resources>
